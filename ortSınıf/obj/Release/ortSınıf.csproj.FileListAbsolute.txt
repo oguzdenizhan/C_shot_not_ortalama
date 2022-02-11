@@ -1,0 +1,7 @@
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\ortSınıf\bin\Release\ortSınıf.exe.config
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\ortSınıf\bin\Release\ortSınıf.exe
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\ortSınıf\bin\Release\ortSınıf.pdb
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\ortSınıf\obj\Release\ortSınıf.csproj.AssemblyReference.cache
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\ortSınıf\obj\Release\ortSınıf.csproj.CoreCompileInputs.cache
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\ortSınıf\obj\Release\ortSınıf.exe
+C:\Users\Oguzhan\Desktop\vs_cshot_projeler\ortSınıf\obj\Release\ortSınıf.pdb
